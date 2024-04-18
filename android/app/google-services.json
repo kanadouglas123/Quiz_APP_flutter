@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756753691855",
+    "project_id": "learn-da4aa",
+    "storage_bucket": "learn-da4aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756753691855:android:4b468404bb83519aac33ba",
+        "android_client_info": {
+          "package_name": "com.example.learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQxoXiOjONFZl1i-jGUu0WJlMP-_Z049w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
